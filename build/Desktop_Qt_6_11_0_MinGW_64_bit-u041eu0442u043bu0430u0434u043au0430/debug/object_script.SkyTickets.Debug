@@ -1,0 +1,14 @@
+debug/main.o
+debug/person.o
+debug/user.o
+debug/tour.o
+debug/booking.o
+debug/database.o
+debug/loginwindow.o
+debug/clientwindow.o
+debug/adminwindow.o
+debug/tourcard.o
+debug/moc_loginwindow.o
+debug/moc_clientwindow.o
+debug/moc_adminwindow.o
+debug/moc_tourcard.o

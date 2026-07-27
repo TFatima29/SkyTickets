@@ -1,0 +1,14 @@
+release/main.o
+release/person.o
+release/user.o
+release/tour.o
+release/booking.o
+release/database.o
+release/loginwindow.o
+release/clientwindow.o
+release/adminwindow.o
+release/tourcard.o
+release/moc_loginwindow.o
+release/moc_clientwindow.o
+release/moc_adminwindow.o
+release/moc_tourcard.o
